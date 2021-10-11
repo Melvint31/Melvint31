@@ -2,5 +2,5 @@ Testing
 test from Intellij MAc, Eclipse
 #include<stdio.h>
 void main(){
-print("hello testing);
+print("hello from MAc elipse");
 }
